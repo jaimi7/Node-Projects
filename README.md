@@ -13,3 +13,10 @@ Each project is organized in a separate branch for better management and learnin
 1. Switch to the branch:
    ```bash
    git checkout contact-manager
+
+2. Install dependencies and start the project:
+ ```bash
+   npm i
+
+ ```bash
+   npm run dev
